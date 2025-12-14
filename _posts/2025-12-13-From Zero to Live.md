@@ -1,14 +1,8 @@
 ---
-layout: post
 title:  "🚀 From Zero to Live: Setting Up My Jekyll Blog with GitHub Pages and AWS Route 53"
 date:   2025-12-13 19:00:00 -0400
 categories: github-pages
-tags: [blogging, devops, static-sites, jekyll, github-pages, aws]
-excerpt: "How I built and deployed a pro-grade Jekyll blog in 48 hours with GitHub Pages and AWS Route 53."
-header:
-  teaser: /assets/images/your-thumbnail.jpg
 author_profile: true
-
 ---
 In 3 days I went from **zero** to a fully deployed, professional blog at [datainsidedata.com](https://datainsidedata.com).
 
