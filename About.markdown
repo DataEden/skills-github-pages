@@ -1,8 +1,8 @@
 ---
-title: "About"
-permalink: /about/
 layout: single
+title: "About"
 author_profile: true
+permalink: /about/
 ---
 
 🔥 I’m Fari, founder of **Data Inside Data**.
